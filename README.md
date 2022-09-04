@@ -1,5 +1,5 @@
 OpenElis
-========
+================
 
 [![Build and Publish OpenELIS](https://github.com/Bahmni/OpenElis/actions/workflows/build_publish_openelis.yml/badge.svg)](https://github.com/Bahmni/OpenElis/actions/workflows/build_publish_openelis.yml)
 
